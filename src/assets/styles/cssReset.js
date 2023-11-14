@@ -1,5 +1,5 @@
 import { createGlobalStyle } from 'styled-components';
-export const GlobalStyle = createGlobalStyle`
+export const GlobalResetStyle = createGlobalStyle`
 
 // Modern CSS reset
 /* Box sizing rules */

@@ -11,7 +11,6 @@ function Home() {
   return (
     <StyledHome>
       <h1>Hello world</h1>
-      <p>Template by la bronze en back</p>
     </StyledHome>
   );
 }
