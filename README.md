@@ -9,7 +9,6 @@ Ce projet est un modèle de démarrage pour créer des applications React avec V
 React 18: Utilise la dernière version de React pour une expérience utilisateur optimale.
 Vite: Bénéficiez de rechargements ultra-rapides et d'une configuration minimale.
 ESLint & Prettier: Intégrés pour assurer un code propre et uniforme.
-Jest & Testing Library: Prêts pour vos tests unitaires et d'intégration.
 Routeur React: Configuré pour une navigation fluide entre les pages.
 Sass/SCSS Support: Pour des styles avancés et organisés.
 
