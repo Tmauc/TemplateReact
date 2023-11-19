@@ -79,18 +79,4 @@ select {
     scroll-behavior: auto !important;
   }
 }
-
-  body {
-    color: black;
-    font-family: 'Aclonica';
-    overflow: hidden;
-
-    .button {
-      transition: all 0.2s ease-in-out;
-
-      &:hover {
-        background-color: #f2f2f2;
-      }
-    }
-  }
 `;
