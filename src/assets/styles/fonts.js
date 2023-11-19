@@ -1,9 +1,11 @@
 import { createGlobalStyle } from 'styled-components';
+import Aclonica from '../fonts/Aclonica-Regular.ttf';
+import Roboto from '../fonts/Roboto-Regular.ttf';
 
 export const GlobalFonts = createGlobalStyle`
 @font-face {
   font-family: "Aclonica";
-  src: url('./assets/fonts/Aclonica-Regular.ttf') format("ttf");
+  src: url(${Aclonica}) format("opentype");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -11,7 +13,7 @@ export const GlobalFonts = createGlobalStyle`
 
 @font-face {
   font-family: "Roboto";
-  src: url('./assets/fonts/Roboto-Regular.ttf') format("ttf");
+  src: url(${Roboto}) format("opentype");
   font-weight: 900;
   font-style: normal;
   font-display: swap;
